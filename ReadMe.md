@@ -9,5 +9,9 @@
 - Git
 
 ## Lessons Learned
-- Gained understanding of Casting and Java
-- Practice use of using a Scanner
+- Gained understanding of Casting.
+- Practice use of using a Scanner.
+- Learned how to use Math.round for rounding decimal numbers.
+- Practiced using conditional statements: if, else if, if.
+- Practiced using multiple methods
+- Improved simple math skills 
